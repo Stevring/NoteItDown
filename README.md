@@ -33,6 +33,7 @@
 2. [OSTEP](https://github.com/Stevring/NoteItDown/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/OSTEP.md)
 3. [命令行常用工具](https://github.com/Stevring/NoteItDown/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7.md)
 4. [程序员的自我修养](https://github.com/Stevring/NoteItDown/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.md)
+5. [Clean Architectures](https://github.com/Stevring/NoteItDown/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Clean%20Architecture.md)
 
 # 自然科学
 
