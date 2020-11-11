@@ -46,3 +46,12 @@ Design principles applies to mid-level components or modules instead of low-leve
 ### Single Responsibility Principle
 
 Single Responsibility: each module or class should has only one reason to change.
+
+A module should be responsible to one, and only one, actor:
+
+- actor is referred to as a group of users that requires the same change.
+
+
+
+### The Open-Closed Principle
+
